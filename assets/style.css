@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding-bottom: 40px;
+}
+
+#resultado {
+    font-size: 20px;
+    font-weight: bold;
+}
